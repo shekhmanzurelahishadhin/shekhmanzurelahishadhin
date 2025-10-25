@@ -34,7 +34,6 @@ I'm a **Full-Stack Developer** with **2.5+ years of experience** designing scala
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" height="48" />
   <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" height="48" />
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST API" height="48" />
-  <img src="https://skillicons.dev/icons?i=nginx,docker" alt="nginx" height="48" />
 </p>
 
 #### 🧰 Tools & Platforms
