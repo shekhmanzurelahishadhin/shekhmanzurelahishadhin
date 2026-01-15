@@ -15,8 +15,8 @@
 ### 💫 About Me
 I'm a **Full-Stack Developer** with **3 years of experience** designing scalable ERP and enterprise solutions using **Laravel**, **React.js**, and **MySQL/SQL Server**.
 
-- 🔧 Expert in **backend architecture**, **REST APIs**, **RBAC**, and **database optimization**  
-- 💼 Experienced in **HRM**, **Payroll**, **Inventory**, and **CRM** module development  
+- 🔧 Expert in **backend architecture**, **REST APIs**, **Role-Based Access Control**, and **database optimization**  
+- 💼 Experienced in **HRM**, **Payroll**, **Inventory**, **VMS**, and **CRM** module development  
 - ⚡ Passionate about writing **clean, maintainable code**  
 
 ---
