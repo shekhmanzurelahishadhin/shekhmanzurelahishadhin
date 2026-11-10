@@ -13,7 +13,7 @@
 ---
 
 ### 💫 About Me
-I'm a **Full-Stack Developer** with **3 years of experience** designing scalable ERP and enterprise solutions using **Laravel**, **React.js**, and **MySQL/SQL Server**.
+I'm a **Full-Stack Developer** with **3.5+ years of experience** designing scalable ERP and enterprise solutions using **Laravel**, **React.js**, **Next.js**, and **MySQL/SQL Server**.
 
 - 🔧 Expert in **backend architecture**, **REST APIs**, **Role-Based Access Control**, and **database optimization**  
 - 💼 Experienced in **HRM**, **Payroll**, **Inventory**, **VMS**, and **CRM** module development  
@@ -56,10 +56,10 @@ I'm a **Full-Stack Developer** with **3 years of experience** designing scalable
 
 ---
 
-### 🏆 GitHub Achievements
+<!-- ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shekhmanzurelahishadhin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+</p> -->
 
 ---
 
