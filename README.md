@@ -85,6 +85,21 @@ I'm a **Full Stack Web Developer** based in **Dhaka, Bangladesh**, currently wor
   <img src="https://streak-stats.demolab.com?user=shekhmanzurelahishadhin&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhmanzurelahishadhin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🟩 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shekhmanzurelahishadhin/shekhmanzurelahishadhin/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/shekhmanzurelahishadhin/shekhmanzurelahishadhin/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
