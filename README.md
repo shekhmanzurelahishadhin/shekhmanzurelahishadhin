@@ -1,7 +1,7 @@
-<!-- 🌟 Advanced GitHub Profile README for Shekh Manzur Elahi -->
+<!-- GitHub Profile README — Shekh Manzur Elahi -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Shekh Manzur Elahi</span></h1>
-<h3 align="center">🚀 Full Stack Web Developer | Laravel & React.js Specialist</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Laravel, React.js & Next.js</h3>
 
 <p align="center">
   <a href="mailto:shadhinmonzur18@gmail.com"><img src="https://img.shields.io/badge/Email-shadhinmonzur18%40gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge"></a>
@@ -13,11 +13,31 @@
 ---
 
 ### 💫 About Me
-I'm a **Full-Stack Developer** with **3.5+ years of experience** designing scalable ERP and enterprise solutions using **Laravel**, **React.js**, **Next.js**, and **MySQL/SQL Server**.
+I'm a **Full Stack Web Developer** based in **Dhaka, Bangladesh**, currently working as a **Software Engineer at Multibrand Group**. I have **3.5+ years of experience** building ERP systems and web apps with **Laravel**, **React.js**, **Next.js** and **MySQL / SQL Server**.
 
-- 🔧 Expert in **backend architecture**, **REST APIs**, **Role-Based Access Control**, and **database optimization**  
-- 💼 Experienced in **HRM**, **Payroll**, **Inventory**, **VMS**, and **CRM** module development  
-- ⚡ Passionate about writing **clean, maintainable code**  
+- 💼 Built **12+ production ERP modules**: HRM, Payroll, Finance, Inventory, CRM and Vendor Management
+- 🏢 Delivered systems for **Paragon, Sattar Metal, Sharif Metal, Parts Bazar, Elco** and more
+- 🔐 Strong in **multi-authentication**, **role-based access (RBAC)**, **REST APIs** and **stored procedures**
+- 🎓 **B.Sc in CSE**, Daffodil International University (CGPA **3.97 / 4.00**)
+
+---
+
+### 🧑‍💻 Experience
+
+**Software Engineer**, Multibrand Group *(Apr 2024 – Present)*
+- ERP & Vendor Management systems (HRM, Payroll, Finance, Inventory, CRM) on Laravel, PHP and React.js
+- Fleet Management System covering the full vehicle lifecycle, from documents and trips to disposal by auction
+- Asset ERP: a Laravel 11 API with 320+ endpoints behind a Next.js 16 admin
+- MDDL: a double-entry accounting system deployed with Docker
+- An all-in-one work management platform with 25+ reports and seven role-specific dashboards
+
+**Jr Programmer**, PeopleNTech Ltd *(Feb 2023 – Mar 2024)*
+- Laravel web apps with admin dashboards, RBAC and secure multi-auth login
+- Migrated legacy Laravel 5 projects to Laravel 9
+- Delivered the Jatiya Kabi Kazi Nazrul Islam University website
+
+**Web Developer (Intern)**, Tecweb BD IT *(Nov 2022 – Jan 2023)*
+- Built dynamic websites for small businesses using Laravel
 
 ---
 
@@ -25,21 +45,32 @@ I'm a **Full-Stack Developer** with **3.5+ years of experience** designing scala
 
 #### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,nextjs,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,jquery,bootstrap,tailwind" />
 </p>
 
-#### 🗄️ Database & Server
+#### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST API" height="48" />
 </p>
 
 #### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,phpstorm,postman,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,phpstorm,docker,firebase,vercel,netlify" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack |
+|---|---|
+| [AI Resume Matchmaker](https://github.com/shekhmanzurelahishadhin/ai_resume_match_maker) | Laravel 11 · Next.js 16 · TypeScript · Groq |
+| [Meridian: Real Estate Studio](https://github.com/shekhmanzurelahishadhin/realestead-studio) | Next.js 16 · Laravel 12 · GSAP · Tailwind v4 |
+| Asset ERP: Workshop Asset & Tool Management | Laravel 11 · Next.js 16 · Sanctum · Spatie RBAC |
+| ERP & VMS Systems | Laravel · PHP · React.js · SQL Server · MySQL |
+
+👉 See all 12 projects on my [portfolio](https://shekh-manzur-elahi.onrender.com/projects.html)
 
 ---
 
@@ -56,28 +87,6 @@ I'm a **Full-Stack Developer** with **3.5+ years of experience** designing scala
 
 ---
 
-<!-- ### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shekhmanzurelahishadhin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p> -->
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="mailto:shadhinmonzur18@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/shekh-monzur-elahi/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-  <a href="https://shekh-manzur-elahi.onrender.com/"><img src="https://img.icons8.com/color/48/domain.png" alt="portfolio"/></a>
-  <a href="https://github.com/shekhmanzurelahishadhin"><img src="https://img.icons8.com/ios-filled/48/000000/github.png" alt="github"/></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shekhmanzurelahishadhin&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
-
----
-
-<p align="center">⭐️ <i>“Clean code is not just code that works — it’s code that works beautifully.”</i></p>
